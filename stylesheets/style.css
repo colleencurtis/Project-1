@@ -64,3 +64,44 @@ h3 {
 	max-width: 50%;
 	float: right;
 }
+
+@media (max-width: 768px) {
+	.intro p {
+		font-size: 18px;
+		margin-left: 50px;
+		margin-right: 50px;
+		margin-top: 50px;
+		margin-bottom: 50px;	
+	}
+
+	h2 {
+		font-size: 24px;
+		float: center;
+	}
+
+	h3 {
+		font-size: 18px;
+		float: center;
+	}
+
+	.text {
+	max-width: 100%;
+	float: center;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	}
+
+	.text p {
+		font-size: 16px;
+		float: center;
+	}
+
+	.photo {
+		max-width: 100%;
+		float: center;
+		margin-top: 20px;
+		margin-bottom: 20px;
+	}
+}
