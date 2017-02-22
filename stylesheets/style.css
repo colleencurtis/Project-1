@@ -25,6 +25,7 @@ h2 {
 	font-family: Gotham Narrow, sans-serif;
 	font-weight: 400;
 	font-size: 30px;
+	margin-left: 50px;
 }
 
 h3 {
@@ -34,61 +35,25 @@ h3 {
 	font-weight: 300;
 	font-size: 24px;
 	line-height: 1.5em;
+	margin-left: 50px;
 }
-
-/*
-.text {
-	max-width: 40%;
-	float: right;
-	margin-left: 10px;
-}
-*/
 
 p {
 	font-family: Gotham Narrow, sans-serif;
 	font-weight: 300;
 	font-size: 18px;
 	line-height: 1.5em;
+	margin-left: 50px;
 }
 
-/*
+
 @media (max-width: 768px) {
 	.intro p {
-		font-size: 18px;
+		font-size: 21px;
 		margin-left: 50px;
 		margin-right: 50px;
 		margin-top: 50px;
 		margin-bottom: 50px;	
 	}
-	
-	h2 {
-		font-size: 24px;
-		float: center;
-	}
 
-	h3 {
-		font-size: 18px;
-		float: center;
-	}
-
-	.text {
-	max-width: 100%;
-	float: center;
-	margin-left: 100px;
-	margin-right: 100px;
-	margin-top: 50px;
-	margin-bottom: 50px;
-	}
-
-	.text p {
-		font-size: 16px;
-		float: center;
-	}
-
-	.photo {
-		max-width: 100%;
-		float: center;
-		margin-top: 20px;
-		margin-bottom: 20px;
-	}
 }
